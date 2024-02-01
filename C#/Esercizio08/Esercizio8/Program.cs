@@ -1,4 +1,4 @@
-﻿/*9. Scrivere un programma che verifichi se la somma dei fattoriali delle cifre di un dato numero è uguale al numero stesso.
+﻿/*8. Scrivere un programma C# per generare e visualizzare il pattern riportato di seguito.
 Shyti Franko 4AI*/
 
 namespace Esercizio8
