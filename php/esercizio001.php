@@ -3,6 +3,7 @@
     <head>
         <title> Esercizio 1</title>
         <meta charset="UTF-8" />
+        <meta name="author" content="SHYTI FRANKO 5AI" />
     </head>
     <body>
         <?php
