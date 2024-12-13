@@ -11,9 +11,7 @@
         <form name="data" action="ricezione.php" method="post">
             <fieldset>
                 <legend>Data e ora del evento</legend>
-                <label>Data <input type="date" name="date" /></label><br />
-                <label>Ora <input type="number" min="0" max="24" step="1" name="ora"/></label>
-                <label>minuti <input type="number" min="0" max="59" step="1" name="min"/></label>
+                <label>Data <input type="datetime-local" name="date" /></label><br />
             </fieldset>
             <fieldset>
                 <legend>Luogo dell'evento</legend>
